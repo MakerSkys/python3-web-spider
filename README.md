@@ -1,2 +1,2 @@
 # python3-web-spider
-this is a spider about python3
+this is some web spider code which use python3
